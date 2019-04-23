@@ -30,9 +30,9 @@ namespace GradeConverter
                 }
                 Console.Write("Letter grade: {0}", gradeRange.GetLetterGrade(grade));
 
-                Console.Write("\n\n\nPress [N] to quit: ");
+                Console.Write("\n\n\nPress <Y> to repeat: ");
 
-            } while (Console.ReadLine().ToLower() != "n");
+            } while (Console.ReadLine().ToLower() == "y");
 
         }
     }
