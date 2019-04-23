@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lab 2\GradeConverter\GradeConverter\bin\Debug\GradeConverter.exe.config
+C:\Users\User\source\repos\Lab 2\GradeConverter\GradeConverter\bin\Debug\GradeConverter.exe
+C:\Users\User\source\repos\Lab 2\GradeConverter\GradeConverter\bin\Debug\GradeConverter.pdb
+C:\Users\User\source\repos\Lab 2\GradeConverter\GradeConverter\obj\Debug\GradeConverter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab 2\GradeConverter\GradeConverter\obj\Debug\GradeConverter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab 2\GradeConverter\GradeConverter\obj\Debug\GradeConverter.exe
+C:\Users\User\source\repos\Lab 2\GradeConverter\GradeConverter\obj\Debug\GradeConverter.pdb
